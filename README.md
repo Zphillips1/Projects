@@ -12,4 +12,7 @@ Create a simple file and web server (probably with Wordpress via Linux)
 
 Configure AD with a domain controller, and attach multiple accounts to it (Guest, User, Admin etc)
 
+Create a simple wordpress website (Linux I'd imagine).
+
+
 This list is subject to change as I add or remove things.
