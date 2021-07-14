@@ -14,5 +14,7 @@ Configure AD with a domain controller, and attach multiple accounts to it (Guest
 
 Create a simple wordpress website (Linux I'd imagine).
 
+Learn Service-Now, since that is a common ticketing system.
+
 
 This list is subject to change as I add or remove things.
