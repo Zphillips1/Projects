@@ -16,5 +16,6 @@ Create a simple wordpress website (Linux I'd imagine).
 
 Learn Service-Now, since that is a common ticketing system.
 
+Craft phishing email campaigns using KnowBe4's services.
 
 This list is subject to change as I add or remove things.
