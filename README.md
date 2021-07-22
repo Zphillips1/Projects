@@ -18,4 +18,6 @@ Learn Service-Now, since that is a common ticketing system.
 
 Craft phishing email campaigns using KnowBe4's services.
 
+setup and link Kali box to main VM
+
 This list is subject to change as I add or remove things.
